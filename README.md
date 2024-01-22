@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ventsislav mandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ventsislav mandev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ventsislav-mandev-8865a1257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ventsislav-mandev-8865a1257/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ventsimandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ventsimandev" height="30" width="40" /></a>
-<a href="https://fb.com/венцислав мандев" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="венцислав мандев" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ventsislav-mandev-8865a1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ventsislav-mandev-8865a1257" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20322366/ventsimandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20322366/ventsimandev" height="30" width="40" /></a>
+<a href="https://fb.com/vencimandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vencimandev" height="30" width="40" /></a>
 <a href="https://instagram.com/ventsimandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ventsimandev" height="30" width="40" /></a>
 </p>
 
