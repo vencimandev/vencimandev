@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ventsislav Mandev</h1>
 <h3 align="center">A passionate Java enthusiast</h3>
 
-- 🌱 I’m currently learning **backend technologies especially Java**
+- 🌱 I’m currently learning **backend technologies especially Java.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ventsislav-mandev-8865a1257/**
 
