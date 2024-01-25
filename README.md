@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ventsislav Mandev</h1>
-<h3 align="center">A passionate Java enthusiast</h3>
+<h3 align="center">💻 Highly motivated and enthusiastic Java developer.I try to follow development trends and often learn new languages and technologies. trong troubleshooting and problem-solving skills with an analytical mindset.</h3>
 
 - 🌱 I’m currently learning **backend technologies especially Java**
 
