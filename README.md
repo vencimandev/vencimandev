@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ventsislav Mandev</h1>
 <h3 align="center">💻 Highly motivated and enthusiastic Java developer.I try to follow development trends and often learn new languages and technologies. Strong troubleshooting and problem-solving skills with an analytical mindset.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vencimandev" alt="vencimandev" /></a> </p>
-
 - 🌱 I’m currently learning **backend technologies especially Java**
+
+- 💬 Ask me about **Feel free to reach out if you have any questions or discussions related to: - 🚀 Backend development - 💻 Java programming - 🌐 Web services and RESTful APIs - 🛠️ Spring Framework (Spring Boot, Spring MVC, etc.) - 📦 Database design and management (SQL and NoSQL) - 🤖 Server-side architecture and microservices - 🧪 Unit testing and test-driven development - 📈 Performance optimization and scalability - 🚧 Troubleshooting and debugging backend systems Don't hesitate to open an issue or pull request if you find any bugs or want to contribute. I'm always open to collaboration and learning new things!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ventsislav-mandev-8865a1257/**
 
